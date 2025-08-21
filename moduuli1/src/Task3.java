@@ -16,7 +16,7 @@ public class Task3 {
 
         int sum = first + second + third;
         int product = (first * second * third);
-        float average = (float) sum / 3;
+        double average = sum / 3.0;
 
         System.out.println("The sum of the numbers is " + sum);
         System.out.println("The product of the numbers is " + product);
