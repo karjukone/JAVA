@@ -19,5 +19,11 @@ public class Task3 {
         System.out.println("The sum of the numbers is " + sum);
         System.out.println("The product of the numbers is " + (first * second * third));
         System.out.println ("The average of the numbers is " + sum / 3.0);
+
+        /*
+        Explanation: The given numbers are integer and need to be converted
+        (int --> double or float) for the average to be accurate.
+        I just put "sum / 3.0" instead of just 3
+         */
     }
 }
