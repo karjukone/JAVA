@@ -10,8 +10,8 @@ public class Task2 {
     }
 
     public void hypotenuse() {
-        double hypo = (side1 * side1) + (side2 * side2);
-        System.out.printf("The length of the hypotenuse is: %.2f ", Math.sqrt(hypo));
+        double hypo = Math.sqrt(side1 * side1 + side2 * side2);
+        System.out.printf("The length of the hypotenuse is: %.2f ", hypo);
     }
 
     public static void main(String[]args) {
