@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Cat {
-    private String name;
+    private final String name;
 
     public Cat(String name) {
         this.name = name;
@@ -24,5 +24,7 @@ public class Cat {
         cat1.meow();
         cat2.meow();
         cat1.meow();
+
+        scanner.close();
     }
 }
