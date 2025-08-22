@@ -11,7 +11,7 @@ public class Task2 {
 
         double celcius = (temp - 32) / 1.8;
 
-        System.out.printf("The temperature in Celsius %6.1f", celcius);
+        System.out.printf("The temperature in Celsius %.1f", celcius);
 
         scanner.close();
     }
