@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/moduuli2.1/Television/Television.iml" filepath="$PROJECT_DIR$/moduuli2.1/Television/Television.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduuli2.1/car/car.iml" filepath="$PROJECT_DIR$/moduuli2.1/car/car.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/model/model.iml" filepath="$PROJECT_DIR$/library/model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduuli1.1/moduuli1.1.iml" filepath="$PROJECT_DIR$/moduuli1.1/moduuli1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduuli1.2/moduuli1.2.iml" filepath="$PROJECT_DIR$/moduuli1.2/moduuli1.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduuli1.3/moduuli1.3.iml" filepath="$PROJECT_DIR$/moduuli1.3/moduuli1.3.iml" />
@@ -18,7 +17,6 @@
       <module fileurl="file://$PROJECT_DIR$/moduuli3.1/moduuli3.1.iml" filepath="$PROJECT_DIR$/moduuli3.1/moduuli3.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduuli3.2/moduuli3.2.iml" filepath="$PROJECT_DIR$/moduuli3.2/moduuli3.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/moduuli3.3/moduuli3.3.iml" filepath="$PROJECT_DIR$/moduuli3.3/moduuli3.3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/system/system.iml" filepath="$PROJECT_DIR$/library/system/system.iml" />
     </modules>
   </component>
 </project>
